@@ -1,0 +1,87 @@
+* {
+    --bs-gutter-x :0 !important;
+}
+.container-fluid{
+    margin: 0%;
+    padding: 0%;
+}
+.navbar{
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-left:20px;
+}
+.logo{
+    width: 31px;
+    height: 25px;
+    margin-left: 30px;
+}
+.nav-link{
+    color:#141414;
+}
+.nav-link:hover{
+    color:#10C9C3;
+}
+body{
+    background-image: url("images/aidan-hancock-8RU4OuA6Yug-unsplash.png");
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+	background-position: 50% 0%;
+    background-size:cover;
+}
+.homeHeader{
+    margin-top: 250px;
+    font-size: 50px;
+}
+hr{
+    border-width: 0px;
+}
+.homeSub{
+    font-size: 20px;
+}
+.finalNavItem{
+    margin-right: 30px;
+}
+.css-button-sharp--green {
+    min-width: 130px;
+    height: 40px;
+    color: #fff;
+    padding: 5px 10px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+    border: 2px solid #10c9c3;
+    background: #10c9c3;
+  }
+.css-button-sharp--green:hover {
+    background: #fff;
+    color: #10c9c3
+  }
+.aboutDesc{
+    margin-top:325px;
+    padding-top:75px;
+    background-color: white;
+    margin-bottom: 0px;
+    padding-bottom:75px;
+}
+.aboutDesc2{
+    margin: 0px;
+    background-color: white;
+}
+.progress-bar{
+    background: #10C9C3;
+}
+.skills-bg2{
+background-image: url(/images/stil-sHGyGynyD5Y-unsplash.png);
+background-repeat: no-repeat;
+background-size: cover;
+}
+.skills-bg1{
+    background-color:#F5F5F5;
+    z-index: -1;
+}
+.skills-bg3{
+    background-color:#10C9C3;
+}
