@@ -60,7 +60,7 @@ hr{
     color: #10c9c3
   }
 .aboutDesc{
-    margin-top:325px;
+    margin-top:350px;
     padding-top:75px;
     background-color: white;
     margin-bottom: 0px;
@@ -84,4 +84,32 @@ background-size: cover;
 }
 .skills-bg3{
     background-color:#10C9C3;
+    padding-top: 75px !important;
+    padding-bottom: 75px !important;
+}
+.skills-col-1{
+    padding-top:100px;
+    padding-bottom: 100px;
+}
+.img-fluid{
+    height:100%;
+    width:100%;
+}
+
+.ran-space{
+    padding:50px; 
+    background-color:#F5F5F5;
+    margin:0%;
+}
+.service-bg{
+    background-color: white;
+}
+.testimonial{
+    padding:200px;
+    background-color:#10C9C3;
+    color:white;
+}
+.proj{
+    padding:75px;
+    background-color: white;
 }
